@@ -5,7 +5,7 @@ permalink: /classmates/Vasudha Shenoy/
 ---
 
 <div class="card">
-  <img class="profile-pic" src="/assets/images/vasudha.jpg" alt="John Doe">
+  <img class="profile-pic" src="/assets/images/vasudha.jpg" alt="Vasudha Shenoy">
   <h3>John Doe</h3>
   <p class="small">Software Engineer • Mumbai</p>
   <h4>About</h4>
