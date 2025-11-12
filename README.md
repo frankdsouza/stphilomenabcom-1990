@@ -7,4 +7,4 @@ This repo is a Jekyll site for our 1990 Commerce Batch memories.
 2. Fill in your info, upload a photo in `/assets/images/` if desired.
 3. Commit or open a Pull Request.
 
-GitHub Pages builds automatically — site visible at https://1990commercebatch.github.io/
+GitHub Pages builds automatically — site visible at https://github.com/frankdsouza/stphilomenabcom-1990
