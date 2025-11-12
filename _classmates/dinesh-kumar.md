@@ -6,7 +6,7 @@ permalink: /classmates/dinesh kumar/
 
 <div class="card">
   <img class="profile-pic" src="/assets/images/dinesh.jpg" alt="Dinesh Kumar">
-  <h3>John Doe</h3>
+  <h3>Dinesh Kumar</h3>
   <p class="small">Software Engineer • Mumbai</p>
   <h4>About</h4>
   <p>John studied commerce and loves cricket. He currently works with Acme Corp.</p>
