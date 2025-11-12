@@ -1,11 +1,11 @@
 ---
 layout: default
-title: John Doe
+title: Dinesh Kumar
 permalink: /classmates/dinesh kumar/
 ---
 
 <div class="card">
-  <img class="profile-pic" src="/assets/images/dinesh.jpg" alt="John Doe">
+  <img class="profile-pic" src="/assets/images/dinesh.jpg" alt="Dinesh Kumar">
   <h3>John Doe</h3>
   <p class="small">Software Engineer • Mumbai</p>
   <h4>About</h4>
